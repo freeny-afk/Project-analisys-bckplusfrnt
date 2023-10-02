@@ -1,5 +1,9 @@
 This repo was used by an enthusiastic team of guys: Airat as analytics, Artemii as teamlead, Naimjonn as pentester and Artem as frontend dev. We appreciate, that MIT team game is laying in an open-source repo, so as our HUGE thanks only we can do is to place the [contribution link](https://www.buymeacoffee.com/skyoffice) first of all. This project is STILL licensed under MIT.
 
+## How to start?
+
+Just go through this link and you'll be right there, at [SkyOffice](https://sky-office.co/)
+
 ## Built with
 
 - [Phaser3](https://github.com/photonstorm/phaser) - Game engine
