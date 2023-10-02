@@ -1,4 +1,4 @@
-This repo was used by an enthusiastic team of guys: Airat as analytics, Artemii as teamlead, Naimjonn as pentester and Artem as frontend dev. We appreciate, that MIT team game is laying in an open-source repo, so as our HUGE thanks only we can do is to place the [contribution link](https://www.buymeacoffee.com/skyoffice) first of all. This project is STILL licensed under MIT.
+This repo was used by an enthusiastic team of guys: Airat as analytics, Artemii as teamlead, Naimjonn as pentester and Artem as frontend dev. We appreciate, that kevinshen56714 team game is laying in an open-source repo, so as our HUGE thanks only we can do is to place the [contribution link](https://www.buymeacoffee.com/skyoffice) first of all. This project is STILL licensed under MIT.
 
 ## How to start?
 
